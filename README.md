@@ -1,2 +1,5 @@
 # clipart
-some SVGs
+
+
+![](animals/frog.svg)
+![](animals/pangolin.svg)
