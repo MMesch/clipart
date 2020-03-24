@@ -10,9 +10,9 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="210mm"
-   height="297mm"
-   viewBox="0 0 210 297"
+   width="300"
+   height="500"
+   viewBox="0 0 79.374999 132.29167"
    version="1.1"
    id="svg8"
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
@@ -157,7 +157,7 @@
        cy="80.249092"
        fx="366.22614"
        fy="80.249092"
-       r="5.7962077"
+       r="5.7962079"
        gradientTransform="matrix(0.25223569,0.07958448,-0.08012056,0.25393473,280.28043,30.787375)"
        gradientUnits="userSpaceOnUse" />
     <radialGradient
@@ -190,8 +190,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.35"
-     inkscape:cx="1596.0852"
-     inkscape:cy="937.6207"
+     inkscape:cx="1024.6566"
+     inkscape:cy="914.76356"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -200,7 +200,8 @@
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
-     showguides="false" />
+     showguides="false"
+     units="px" />
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -216,10 +217,11 @@
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     id="layer1">
+     id="layer1"
+     transform="translate(0,-164.70833)">
     <g
        id="g1146"
-       transform="translate(-297.08928,6.0476191)">
+       transform="matrix(0.55018491,0,0,0.55018491,-182.62896,156.06433)">
       <rect
          style="opacity:1;fill:url(#linearGradient1296);fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="rect1288"
