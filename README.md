@@ -6,6 +6,7 @@
 ![](animals/jackal.svg)
 ![](animals/bat.svg)
 ![](animals/salamander.svg)
+![](animals/koala.svg)
 ![](animals/frog.svg)
 
 ## People
